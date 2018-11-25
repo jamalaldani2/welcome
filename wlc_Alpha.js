@@ -81,4 +81,4 @@ welcomer.sendFile(canvas.toBuffer())
       });                    
  }
 });
- client.login('');
+ client.login('BOT_TOKEN');
